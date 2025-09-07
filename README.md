@@ -2,7 +2,7 @@
 
 A metrics-driven tool to recommend right-sized PHP-FPM configurations based on historical usage patterns.
 
-Inspired by [Hatam post](https://medium.com/@hatamabolghasemi/how-i-reduced-php-fpm-based-backend-stack-memory-utilization-by-over-80-without-changing-a-line-a22dd983c6ea) on reducing memory usage without touching application code. This v2 version adds safety buffers, CPU consideration, percentile-based analysis, and staging validation recommendations.
+Inspired by [Hatam's medium post](https://medium.com/@hatamabolghasemi/how-i-reduced-php-fpm-based-backend-stack-memory-utilization-by-over-80-without-changing-a-line-a22dd983c6ea) on reducing memory usage without touching application code. This v2 version adds safety buffers, CPU consideration, percentile-based analysis, and staging validation recommendations.
 
 Also see [my medium post](https://rome-rohani.medium.com/optimizing-php-fpm-metrics-driven-right-sizing-374b5aefbf08) for a detailed walkthrough of this approach.
 
